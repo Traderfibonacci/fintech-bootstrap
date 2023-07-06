@@ -2,6 +2,15 @@
   font-family: 'Open Sans', sans-serif;
 }
 
+.container  {
+  background-color: #f2f2f2;
+  
+}
+.navbar-nav .nav-link:hover {
+  color: #11429e;
+  border-bottom: 2px solid #11429e;
+}
+
 :root {
   --bg-blue-1: #11429e;
   --bg-blue-2: #f6f9ff;
